@@ -1,4 +1,4 @@
-﻿using LockheedMartin.Prepar3D.SimConnect;
+﻿using Microsoft.FlightSimulator.SimConnect;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
